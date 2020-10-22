@@ -1,0 +1,39 @@
+.login {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.login > div > img {
+    object-fit: contain;
+    height: 150px;
+    border-radius: 120px;
+}
+
+.login > .login__signin {
+    width:300px;
+    background-color: #3ea4fb;
+    color: #eff2f5;
+    font-weight: 800;
+}
+
+.login > .login__signin:hover {
+    background-color: gainsboro;
+    color: #3ea4fb;
+}
+
+.login__logo > h1 {
+    letter-spacing: 8px;
+}
+
+.login__toggle {
+    border-radius: 120px;
+    padding: 20px;
+    margin: 15px;
+    position: absolute;
+    cursor: pointer;
+    background-color: transparent;
+    outline: none;
+    color: black;
+}
