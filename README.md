@@ -18,5 +18,5 @@ For running this application in your local system, follow the below given steps 
 ### Working of the application
 This application is made by **ReactJs** and **firebase**. For Sign-In, it uses google authentication that is given by firebase. Profile pictures attached to your google account will be fetched automatically. After logging in to your account, press the icon next to search bar to create a new room. Have conversations in your room. Profile picture displayed on each room will be of the last user who sent the message. It also contains the timestamp which tells the time of the last sent message. The backend functionalities are provided by **firebase**.
 
-### Screenshot
+### Wroking Screencapture
 <img src="epistle-full.gif">
