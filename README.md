@@ -9,7 +9,7 @@
 
 ### Setup
 For running this application in your local system, follow the below given steps -
-1. Clone this repository
+1. Clone this repository - ```gh repo clone pranjals149/Epsitle```
 2. ```cd epistle```
 3. ```npm install``` - to fetch the dependencies from **package.json** and install it in your system.
 4. Now ```npm start``` to start the local server.
