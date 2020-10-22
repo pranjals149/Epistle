@@ -1,0 +1,40 @@
+{
+  "name": "epistle",
+  "version": "1.0.0",
+  "description": "This app lets you to have conversation with your friends and community members. You are just a click away !! First Sign-in with your google account. Then create a room and enjoy the beautifull transitions of the messages. You can have chats in that room with the people of your domain or community.",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^7.24.0",
+    "mic-recorder-to-mp3": "^2.2.2",
+    "react-animated-text": "^0.1.4",
+    "react-dom": "^16.14.0",
+    "react-flip-move": "^3.0.4",
+    "react-redux": "^7.2.1",
+    "react-scripts": "^3.4.4",
+    "react": "^16.14.0",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranjals149/Epsitle.git"
+  },
+  "keywords": [
+    "epistle",
+    "room-meeting",
+    "meeting",
+    "react",
+    "firebase",
+    "fullstack-app",
+    "web-app"
+  ],
+  "author": "Pranjal Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranjals149/Epsitle/issues"
+  },
+  "homepage": "https://github.com/pranjals149/Epsitle#readme"
+}
