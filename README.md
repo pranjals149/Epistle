@@ -4,7 +4,7 @@
 
 <p align="center">This app lets you to have conversation with your friends and community members. You are just a click away !! First Sign-in with your google account. Then create a room and enjoy the beautifull transitions of the messages. You can have chats in that room with the people of your domain or community. </p>
 
-**Hope you like it**
+**Hope you like it ✌**
 
 
 ### Setup
