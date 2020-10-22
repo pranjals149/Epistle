@@ -21,3 +21,10 @@ This application is made by **ReactJs** and **firebase**. For Sign-In, it uses g
 
 ### Wroking Screencapture
 <img src="epistle-full.gif">
+
+
+### Dependencies used
+1. [Material-UI](material-ui.com)
+2. [Redux Toolkil](https://redux.js.org/)
+3. [firebase](https://firebase.google.com/)
+4. [react-flip-move](https://github.com/joshwcomeau/react-flip-move)
